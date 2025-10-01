@@ -12,7 +12,7 @@
  *
  * @note Assumes that the system clock (50 MHz) is used.
  *
- * @author Aaron Nanas
+ * 
  */
 
 #include "UART0.h"
