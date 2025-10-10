@@ -4,5 +4,4 @@ https://mail.google.com/mail/u/0?ui=2&ik=6984b16557&attid=0.1&permmsgid=msg-f:18
 
 <img width="721" height="537" alt="image" src="https://github.com/user-attachments/assets/e1902cc1-ca7c-4e74-8cc1-cbd8e7e7eae6" />
 
-
-
+The yellow signal is to represent chip select while the blue signal is supposed to represent the clock and the purple signal represents the MOSI
