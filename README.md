@@ -10,5 +10,5 @@ The yellow signal is to represent chip select while the blue signal is supposed 
 
 <img width="406" height="742" alt="image" src="https://github.com/user-attachments/assets/4b4f015b-1d29-4dee-a1b5-1472076b1fd0" />
 
-My apologies I had issues uploading the video but above is the circuit I designed using the SSI module and how it works is the SPI driver sends and recieves data between the microcontroller and SPI where I then verified the signals using an oscilloscope.
+My apologies I had issues uploading the video but above is the circuit I designed using the SSI module and how it works is the SPI driver sends and recieves data between the microcontroller and SPI where I then verified the signals using an oscilloscope. When you flashed a light on the sensor of the microcontroller the light level would increase to 256 on my computer but when the sensor was covered by my hand the light levels would drop between 0 and 10.
 
